@@ -29,7 +29,7 @@
 @implementation EZRRootViewController
 
 /**
- * Creates the menu contorllers and side menu
+ * Creates the menu controllers and side menu
  */
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
